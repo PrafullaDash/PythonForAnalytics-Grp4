@@ -134,7 +134,6 @@ I expect your final notebook to at least contain basic exploration of data. At l
 |`os`|system function and methods, used to support wordcloud output|
 |`PIL`|image processing library, used to support wordcloud output|
 |`Table of Contents (2)`|create table of contents in Jupyter Notebook|
-|`Split Cells Notebook`|split cells to half the notebook to allow side-by-side cells (this will not show up in GitHub but can be viewed in the pdf export of the final report)|
 
 # Research Links
 
