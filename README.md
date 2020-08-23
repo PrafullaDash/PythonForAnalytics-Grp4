@@ -1,19 +1,20 @@
 # PythonForAnalytics-Grp4
-Python for Analytics Group 4 Project Code Repository
 
 ## Final Project Location and Name
 
+**Algorithmic Bias in Immigration Visas.ipynb**
 
+https://github.com/samgunther/PythonForAnalytics-Grp4
 
 <h1>Table of Contents<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#PythonForAnalytics-Grp4" data-toc-modified-id="PythonForAnalytics-Grp4-1">PythonForAnalytics-Grp4</a></span><ul class="toc-item"><li><span><a href="#Final-Project-Location-and-Name" data-toc-modified-id="Final-Project-Location-and-Name-1.1">Final Project Location and Name</a></span></li><li><span><a href="#Project-Members" data-toc-modified-id="Project-Members-1.2">Project Members</a></span></li></ul></li><li><span><a href="#Detailed-Requirements" data-toc-modified-id="Detailed-Requirements-2">Detailed Requirements</a></span><ul class="toc-item"><li><span><a href="#Outline-(from-Canvas)" data-toc-modified-id="Outline-(from-Canvas)-2.1">Outline (from Canvas)</a></span></li><li><span><a href="#Requirements" data-toc-modified-id="Requirements-2.2">Requirements</a></span></li><li><span><a href="#Ethics" data-toc-modified-id="Ethics-2.3">Ethics</a></span></li><li><span><a href="#Deliverable" data-toc-modified-id="Deliverable-2.4">Deliverable</a></span></li><li><span><a href="#General-notes" data-toc-modified-id="General-notes-2.5">General notes</a></span></li><li><span><a href="#Here-are-some-interesting-notebooks-I-found-online" data-toc-modified-id="Here-are-some-interesting-notebooks-I-found-online-2.6">Here are some interesting notebooks I found online</a></span></li></ul></li><li><span><a href="#Process-Outline" data-toc-modified-id="Process-Outline-3">Process Outline</a></span></li><li><span><a href="#Individual-Analysis-Notebooks" data-toc-modified-id="Individual-Analysis-Notebooks-4">Individual Analysis Notebooks</a></span><ul class="toc-item"><li><span><a href="#Shyan-DasMadan" data-toc-modified-id="Shyan-DasMadan-4.1">Shyan DasMadan</a></span></li><li><span><a href="#Sam-Gunther" data-toc-modified-id="Sam-Gunther-4.2">Sam Gunther</a></span></li><li><span><a href="#Prafulla-Ranjan-Dash" data-toc-modified-id="Prafulla-Ranjan-Dash-4.3">Prafulla Ranjan Dash</a></span></li><li><span><a href="#Brandon-Carp" data-toc-modified-id="Brandon-Carp-4.4">Brandon Carp</a></span></li></ul></li><li><span><a href="#Supporting-Technology" data-toc-modified-id="Supporting-Technology-5">Supporting Technology</a></span></li></ul></div>
+<div class="toc"><ul class="toc-item"><li><span><a href="#PythonForAnalytics-Grp4" data-toc-modified-id="PythonForAnalytics-Grp4-1">PythonForAnalytics-Grp4</a></span><ul class="toc-item"><li><span><a href="#Final-Project-Location-and-Name" data-toc-modified-id="Final-Project-Location-and-Name-1.1">Final Project Location and Name</a></span></li><li><span><a href="#Project-Members" data-toc-modified-id="Project-Members-1.2">Project Members</a></span></li></ul></li><li><span><a href="#Detailed-Requirements" data-toc-modified-id="Detailed-Requirements-2">Detailed Requirements</a></span><ul class="toc-item"><li><span><a href="#Outline-(from-Canvas)" data-toc-modified-id="Outline-(from-Canvas)-2.1">Outline (from Canvas)</a></span></li><li><span><a href="#Requirements" data-toc-modified-id="Requirements-2.2">Requirements</a></span></li><li><span><a href="#Ethics" data-toc-modified-id="Ethics-2.3">Ethics</a></span></li><li><span><a href="#Deliverable" data-toc-modified-id="Deliverable-2.4">Deliverable</a></span></li><li><span><a href="#General-notes" data-toc-modified-id="General-notes-2.5">General notes</a></span></li><li><span><a href="#Here-are-some-interesting-notebooks-I-found-online" data-toc-modified-id="Here-are-some-interesting-notebooks-I-found-online-2.6">Here are some interesting notebooks I found online</a></span></li></ul></li><li><span><a href="#Process-Outline" data-toc-modified-id="Process-Outline-3">Process Outline</a></span></li><li><span><a href="#Individual-Analysis-Notebooks" data-toc-modified-id="Individual-Analysis-Notebooks-4">Individual Analysis Notebooks</a></span><ul class="toc-item"><li><span><a href="#Shyan-DasMadan" data-toc-modified-id="Shyan-DasMadan-4.1">Shyan DasMadan</a></span></li><li><span><a href="#Sam-Gunther" data-toc-modified-id="Sam-Gunther-4.2">Sam Gunther</a></span></li><li><span><a href="#Prafulla-Ranjan-Dash" data-toc-modified-id="Prafulla-Ranjan-Dash-4.3">Prafulla Ranjan Dash</a></span></li><li><span><a href="#Brandon-Carp" data-toc-modified-id="Brandon-Carp-4.4">Brandon Carp</a></span></li></ul></li><li><span><a href="#Supporting-Technology" data-toc-modified-id="Supporting-Technology-5">Supporting Technology</a></span></li><li><span><a href="#Research-Links" data-toc-modified-id="Research-Links-6">Research Links</a></span></li></ul></div>
 
 ## Project Members
 
-Brandon Carp
-Shyan DasMadan
-Sam Gunther
-Prafulla Ranjan Dash
+Brandon Carp,
+Shyan DasMadan,
+Sam Gunther,
+Prafulla Ranjan Dash,
 
 # Detailed Requirements
 
@@ -133,8 +134,14 @@ I expect your final notebook to at least contain basic exploration of data. At l
 |`os`|system function and methods, used to support wordcloud output|
 |`PIL`|image processing library, used to support wordcloud output|
 |`Table of Contents (2)`|create table of contents in Jupyter Notebook|
+|`Split Cells Notebook`|split cells to half the notebook to allow side-by-side cells (this will not show up in GitHub but can be viewed in the pdf export of the final report)|
 
+# Research Links
 
-```python
-
-```
+- https://www.stilt.com/blog/2019/06/o2-visa/
+- https://en.wikipedia.org/wiki/R_visa#:~:text=The%20R%2D2%20visa%20is,the%20principal%20R%2D1%20worker.
+- https://www.visapro.com/work-visas/p3-visa/faq2/#:~:text=The%20P%2D3%20visa%20is,program%20that%20is%20culturally%20unique.
+- https://travel.state.gov/content/travel/en/us-visas/employment/visas-members-foreign-media-press-radio.html
+- https://www.yeklaw.com/blog/2017/november/what-is-entry-without-inspection-ewi-/
+- https://en.wikipedia.org/wiki/Labor_certification
+- https://www.dol.gov/agencies/eta/foreign-labor/news/archive
