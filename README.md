@@ -103,7 +103,7 @@ I expect your final notebook to at least contain basic exploration of data. At l
 1. Reviewed the dictionary again, using the spreadsheet `PERM_FY2020_Q3_feature_list.xlsx` to divide up each feature for our individual analyses.
 1. Agreed to base analysis off `CASE_STATUS_BINARY` to ensure each group member was dividing "Denied" versus "Certified" consistently.
 1. Conducted individual analyses and met again to discuss insights and share ideas for enhancements and further exploration. Each individual analysis is located in the `analysis and data` folder, and their names are identified under each group member's name in `Assigned Features.ipynb` notebook in the `metadata` folder.
-1. Used completed individual analyses to draft consolidated report for review and submission. Final report name is ``.
+1. Used completed individual analyses to draft consolidated report for review and submission. Final report name is `Algorithmic Bias in Immigration Visas.ipynb`.
 
 # Individual Analysis Notebooks
 
